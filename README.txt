@@ -122,5 +122,3 @@ More about developing:
  * Refer to the API documentation:
    http://api.drupal.org/api/drupal/7
 
-   
-"hello this is test"i tlike thsi can you change the text
